@@ -1,4 +1,4 @@
-# `<Nadicorp />`
+# `<Nadicorp LTD />`
 
 > **Building the future of digital sovereignty, low-level security, and privacy-first infrastructure. Zero bloat. Pure performance. No cap.**
 
@@ -6,7 +6,7 @@
 
 ### ⚡ Who We Are
 
-**Nadicorp** is an independent tech & security engineering lab dedicated to building zero-trust privacy utilities, high-performance edge infrastructure, and next-gen security tooling. We don't do telemetry slop, corporate bloat, or heavy middleware. Everything we ship is engineered for raw speed, deep privacy, and absolute user control.
+**Nadicorp LTD** is an independent tech & security engineering lab dedicated to building zero-trust privacy utilities, high-performance edge infrastructure, and next-gen security tooling. We don't do telemetry slop, corporate bloat, or heavy middleware. Everything we ship is engineered for raw speed, deep privacy, and absolute user control.
 
 ---
 
@@ -29,7 +29,7 @@
 
 ### 🌐 Connect & Contribute
 
-* 🌍 **Website:** [nadicorp.com](https://nadicorp.com)
+* 🌍 **Website:** [nadicorp.net](https://nadicorp.net)
 * 📬 **Security Disclosures:** `security@nadicorp.com`
 * 🤝 **Open Source:** Check our public repos for open issues and PR guidelines. 
 
