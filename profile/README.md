@@ -30,7 +30,7 @@
 ### 🌐 Connect & Contribute
 
 * 🌍 **Website:** [nadicorp.net](https://nadicorp.net)
-* 📬 **Security Disclosures:** `security@nadicorp.com`
+* 📬 **Security Disclosures:** `security@nadicorp.net`
 * 🤝 **Open Source:** Check our public repos for open issues and PR guidelines. 
 
 ---
