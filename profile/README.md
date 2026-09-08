@@ -22,7 +22,6 @@
 ### 🛠️ Core Stack & Philosophy
 
 * **Low-Level Systems Engineering:** Optimized C, C++, and Rust for performance-critical, zero-bloat execution.
-* **Edge-Native Architecture:** Powered by Cloudflare Workers, D1, and lightweight distributed backends.
 * **Absolute Privacy First:** End-to-end encryption, zero tracking, zero-trust by default. No exceptions.
 
 ---
